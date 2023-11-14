@@ -1,1 +1,1 @@
-# demo-microservice-onlineshop
+# demo-shopifyjava
